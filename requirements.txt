@@ -3,7 +3,9 @@ pandas
 scikit-learn
 catboost
 matplotlib
+seaborn
 plotly
+ydata-profiling
 
 jupyter
 notebook
